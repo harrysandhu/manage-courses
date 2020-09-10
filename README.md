@@ -27,3 +27,28 @@ This will give you a directory structure like the following:
 `````````````
 ./generate.py
 `````````````
+
+## Example hw file
+
+# 2020-09-08
+## algo-COMP3760:
+- TODO: 
+#### lecture
+    - nested loop - summation translation
+    - writing psuedocode
+    - kleinberg chapter 2
+
+#### lab
+    - CLRS AVL trees
+    - CLRS Hashtables revise
+    - Assignment 4 
+
+---------------------------
+## pstat-MATH3042:
+- TODO:
+#### lecture
+    - Buy the book
+    - Read Chapter 1
+    - Submit the lab assignment
+    
+---------------------------
