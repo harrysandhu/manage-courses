@@ -4,6 +4,7 @@
 
 ### Installation
 ``````````````
+git clone https://github.com/harrysandhu/manage-courses.git
 pip install python-dateutil
 pip install markdown2
 ``````````````
