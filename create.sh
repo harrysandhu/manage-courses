@@ -1,6 +1,6 @@
 #!/bin/bash
 
-courses=("algo-COMP3760" "ideation-COMP3942" "pstat-MATH3042" "oop2-COMP3522" "mobdev-COMP3717" "datacom-COMP3721")
+courses=("algo-COMP3760" "pstat-MATH3042")
 TOTALWEEKS=14
 for c in ${courses[@]}; do
   mkdir $c
