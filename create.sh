@@ -1,7 +1,8 @@
 #!/bin/bash
 
 courses=("algo-COMP3760" "pstat-MATH3042")
-TOTALWEEKS=14
+TOTALWEEKS=3
+mkdir hw.main
 for c in ${courses[@]}; do
   mkdir $c
 done
