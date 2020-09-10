@@ -14,8 +14,7 @@ pip install markdown2
 ```````````````
 (Shown here is a sample directory structure, modify your courses and term duration (no. of weeks) in create.sh)
 This will give you a directory structure like the following:
-
-
+<img src="https://raw.githubusercontent.com/harrysandhu/manage-courses/master/dir.png" />
 
 ## IMPORTANT:
 - Notes format: must be a markdown file
@@ -26,5 +25,5 @@ This will give you a directory structure like the following:
 
 ## Generate Homework/TODOs from notes:
 `````````````
-./generate
+./generate.py
 `````````````
