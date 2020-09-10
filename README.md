@@ -26,7 +26,7 @@ This will give you a directory structure like the following:
 
 ## Generate Homework/TODOs from notes:
 `````````````
-./generate.py
+./generate.py 1
 `````````````
 
 ## Example hw file
