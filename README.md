@@ -15,49 +15,6 @@ pip install markdown2
 (Shown here is a sample directory structure, modify your courses and term duration (no. of weeks) in create.sh)
 This will give you a directory structure like the following:
 
-├── algo-COMP3760
-│   ├── lab
-│   │   ├── week-1
-│   │   │   ├── README.md
-│   │   │   └── lec.md
-│   │   ├── week-2
-│   │   │   ├── README.md
-│   │   │   └── lec.md
-│   │   └── week-3
-│   │       ├── README.md
-│   │       └── lec.md
-│   └── lecture
-│       ├── week-1
-│       │   ├── README.md
-│       │   └── lec.md
-│       ├── week-2
-│       │   ├── README.md
-│       │   └── lec.md
-│       └── week-3
-│           ├── README.md
-│           └── lec.md
-└── pstat-MATH3042
-    ├── lab
-    │   ├── week-1
-    │   │   ├── README.md
-    │   │   └── lec.md
-    │   ├── week-2
-    │   │   ├── README.md
-    │   │   └── lec.md
-    │   └── week-3
-    │       ├── README.md
-    │       └── lec.md
-    └── lecture
-        ├── week-1
-        │   ├── README.md
-        │   └── lec.md
-        ├── week-2
-        │   ├── README.md
-        │   └── lec.md
-        └── week-3
-            ├── README.md
-            └── lec.md
-
 
 
 ## IMPORTANT:
