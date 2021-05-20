@@ -1,4 +1,5 @@
-# Manage your courses and generate hw and TODOs from markdown notes
+# Manage Courses
+-  Manage your courses and generate hw and TODOs from markdown notes
 * Generates daily TODOs based on your notes.
 * Manages course directory structure based on weeks.
 
